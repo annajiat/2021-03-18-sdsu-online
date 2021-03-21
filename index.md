@@ -16,7 +16,7 @@ enddate: 20210320        # machine-readable end date for the workshop in YYYY-MM
 instructor: ["Eve Bohnett", "Elnaz Amanzadeh Jajin", "Annajiat Alim Rasel"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Noah Young", "Jasmine Arpagian", "Corrie Monteverde", "Emily Deardorff"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["nyoung2684@sdsu.edu","ebohnett@sdsu.edu","elibio449@gmail.com","annajiat@gmail.com","jarpagian@sdsu.edu","cmonteverde@sdsu.edu","edeardorff1329@sdsu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2021-03-18-sdsu-online  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://ggsageospatia-t1z9004.slack.com  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
